@@ -379,7 +379,7 @@ section { position: relative; z-index: 1; }
 .skill-card:hover::after { transform: scaleX(1); }
 .skill-icon { font-size: 2rem; margin-bottom: 1rem; }
 .skill-name {
-  font-size: 1.4rem;
+  font-size: 1.9rem;
   font-weight: 700;
   color: #fff;
   margin-bottom: 1rem;
@@ -387,7 +387,7 @@ section { position: relative; z-index: 1; }
 .skill-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .skill-tag {
   font-family: 'Share Tech Mono', monospace;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   color: var(--accent);
   background: rgba(0,245,196,0.06);
   border: 1px solid rgba(0,245,196,0.2);
